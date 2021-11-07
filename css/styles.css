@@ -168,9 +168,6 @@ input[type="search"]:focus {
 
 /*==========Musta=============*/
 
-/*All content center (user questions)*/
-/* =========================Structure======================== */
-
 /*==============make-question-section==============*/
 
 .center .make-question-section {
@@ -191,7 +188,6 @@ input[type="search"]:focus {
 
 .center .main-title button {
   margin-right: 5%;
-  /* margin-right: 30px; */
   background-color: rgb(23, 140, 207);
   border: none;
   width: 100px;
@@ -796,7 +792,7 @@ footer li a:hover {
   font-size: 11px;
 }
 
-/*============Fatoumata side left ==============*/
+/*============ side left ==============*/
 
 .side-left-menu {
   font-family: "Liberation Sans";
@@ -902,7 +898,7 @@ footer li a:hover {
   background-color: #1c70c4;
   cursor: pointer;
 }
-/*########################### Right ################################*/
+/*======================= Right =======================*/
 
 .right {
   width: 40%;
@@ -910,7 +906,6 @@ footer li a:hover {
   margin-left: 30px;
   display: flex;
   flex-direction: column;
-  /* border:solid olive 2px; */
   height: fit-content;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
