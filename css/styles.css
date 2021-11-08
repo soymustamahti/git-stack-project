@@ -906,7 +906,7 @@ footer li a:hover {
   margin-left: 30px;
   display: flex;
   flex-direction: column;
-  height: fit-content;
+  height: max-content;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
